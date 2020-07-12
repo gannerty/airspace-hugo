@@ -1,4 +1,4 @@
-baseURL = "http://sinarpuupi.netlify.app"
+baseURL = "https://sinarpuupi.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
