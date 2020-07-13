@@ -1,10 +1,10 @@
 baseURL = "https://sinarpuupi.netlify.app"
-disableLanguages = []
+disableLanguages = ["", ""]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Sinarpuupi | Pembuat kapal pinisi"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
@@ -13,11 +13,11 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/indonesia"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "Id-Id"
+languageName = "Id"
 weight = 2
 [[menu.footer]]
 URL = "about"
