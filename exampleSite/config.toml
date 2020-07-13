@@ -13,11 +13,11 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/indonesia"
+contentDir = "content/france"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 home = "Accueil"
-languageCode = "id-id"
-languageName = "Id"
+languageCode = "fr-fr"
+languageName = "Fr"
 weight = 2
 [[menu.footer]]
 URL = "about"
